@@ -1,0 +1,59 @@
+SHOPEASE E-COMMERCE INC. - OFFICIAL SHIPPING & FULFILLMENT POLICY
+Document Code: POL-SHP-2026-V3
+Effective Date: January 1, 2026
+Last Revised: October 1, 2026
+
+1. GENERAL DISPATCH & PROCESSING OVERVIEW
+At ShopEase, our commitment is to provide fast, reliable, and transparent shipping across all consumer orders. Every order placed on the ShopEase platform undergoes automated fraud verification, inventory allocation, and fulfillment dispatch.
+
+Standard fulfillment operational hours are Monday through Friday, 7:00 AM to 6:00 PM EST, and Saturday, 8:00 AM to 2:00 PM EST. Orders placed on Sundays or official federal public holidays will begin processing on the following business day.
+
+Orders containing in-stock items are processed and handed over to courier carriers within 12 to 24 hours of successful payment authorization. During peak seasonal promotional campaigns (such as Black Friday, Cyber Week, and Annual Prime Blowouts), warehouse processing times may extend up to 48 hours.
+
+2. DOMESTIC SHIPPING TIERS (CONTINENTAL UNITED STATES)
+ShopEase partners with tier-1 national logistics providers, including FedEx Express, United Parcel Service (UPS), and the United States Postal Service (USPS), to offer three standardized domestic delivery speeds:
+
+Tier A: Standard Ground Shipping
+- Transit Window: 3 to 5 business days following dispatch.
+- Base Charge: Flat fee of $4.99 per order for cart sub-totals under $50.00.
+- Free Shipping Incentive: Orders with a merchandise sub-total of $50.00 or greater (calculated after coupons and before taxes) qualify automatically for FREE Standard Shipping.
+- Carrier Selection: Smart-routed between USPS Ground Advantage and UPS Ground based on destination logistics density.
+
+Tier B: Express 2-Day Air Delivery
+- Transit Window: 1 to 2 business days following dispatch.
+- Base Charge: Flat fee of $12.99 per order.
+- Guarantee: Delivery attempted by end of the second business day. Guaranteed Saturday delivery is included for metropolitan ZIP codes.
+
+Tier C: Overnight Priority Delivery
+- Transit Window: Guaranteed next business day delivery.
+- Order Cut-Off Time: Orders must be finalized and authorized by 2:00 PM Eastern Standard Time (EST) Monday through Thursday. Orders placed after 2:00 PM on Thursday will arrive on Monday. Orders placed on Friday before 2:00 PM will arrive on Monday unless Saturday Priority ($10 surcharge) is selected.
+- Base Charge: Flat fee of $24.99 per order.
+
+3. NON-CONTINENTAL DOMESTIC REGIONS
+Shipments destined for Alaska, Hawaii, Puerto Rico, Guam, and US Military APO/FPO addresses:
+- Applicable Tiers: Standard Ground and Priority Mail only.
+- Transit Window: 5 to 9 business days for AK, HI, and PR; up to 14 business days for APO/FPO destinations.
+- Surcharge: A flat $8.50 remote logistics handling surcharge applies to all non-continental orders regardless of cart value.
+
+4. INTERNATIONAL SHIPPING & CUSTOMS CLEARANCE (DDP)
+ShopEase currently ships directly to 48 countries across North America, Europe, Asia-Pacific, and Latin America via DHL Express Worldwide and FedEx International Priority.
+
+Delivered Duty Paid (DDP) Standards:
+All international transactions are processed under Incoterms DDP rules. When completing checkout on ShopEase:
+- Local import duties, Value Added Tax (VAT), Goods and Services Tax (GST), and standard customs clearance brokerage fees are calculated dynamically in real-time and added to the final checkout total.
+- The recipient will NEVER be contacted by the courier or local customs agency demanding additional customs fees upon parcel delivery.
+- Estimated International Transit: 6 to 10 business days for standard international; 3 to 5 business days for DHL Express Priority.
+- International shipping charges vary based on volumetric weight and destination country, starting at $19.99 for Canada and $24.99 for the United Kingdom and European Union.
+
+5. PACKAGE TRACKING & NOTIFICATIONS
+Upon parcel handover to the carrier, a unique 12-to-22-character tracking identifier is generated and registered in the ShopEase tracking portal. Customers receive:
+1. Automated Dispatch Email: Contains courier identity, package weight, tracking number, and live tracking hyperlink.
+2. Real-time SMS Updates: Available for opt-in customers upon checkout, providing milestone alerts for "Out for Delivery", "Delayed by Weather", and "Delivered".
+3. Customer Dashboard: Under the "My Orders" tab, customers can view live GPS coordinates and estimated delivery time windows provided by carrier APIs.
+
+6. INCLEMENT WEATHER, DELAYS, AND FORCE MAJEURE
+While ShopEase and our carrier partners maintain an on-time dispatch rate exceeding 98.4%, occasional unavoidable delays occur due to severe winter storms, hurricanes, national transit disruptions, or customs clearance bottlenecks. In the event of a recognized carrier delay exceeding 48 hours beyond the scheduled delivery window, customers are entitled to a full refund of any paid expedited shipping fees ($12.99 or $24.99) upon request to support@shopease.com.
+
+7. FULFILLMENT RESTRICTIONS
+- P.O. Box Addresses: Standard Shipping via USPS is required for all P.O. Box addresses. Express and Overnight air couriers (FedEx/UPS) cannot deliver to P.O. Boxes.
+- Hazardous Items: Items containing lithium-ion batteries exceeding 100Wh, aerosol sprays, and chemical solvents cannot be shipped via air express or international carriers; these must ship via Ground Transport only.

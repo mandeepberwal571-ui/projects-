@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+streamlit
+chromadb
+google-genai
+python-dotenv
+pydantic
+pypdf
+python-docx
+pytest
+httpx
+python-multipart
+reportlab
+Pillow

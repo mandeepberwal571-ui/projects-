@@ -1,0 +1,699 @@
+[
+  {
+    "text": "# ShopEase Customer Support - Frequently Asked Questions (FAQ)\n\nWelcome to the ShopEase Help Center. Below are answers to the most frequently asked questions regarding our orders, payments, account management, shipping, returns, and digital support.\n\n---\n\n### Category 1: Orders and Modifications",
+    "metadata": {
+      "source": "FAQ.md",
+      "page": 1,
+      "chunk_id": "FAQ.md::p1::c1",
+      "chunk_index": 1,
+      "char_length": 296
+    }
+  },
+  {
+    "text": "questions regarding our orders, payments, account management, shipping, returns, and digital support.\n\n---\n\n### Category 1: Orders and Modifications\n\n#### Q1: How do I place an order on ShopEase?\nTo place an order, browse through our catalog or use the search bar at the top of the website or mobile app. Once you find an item you wish to purchase, select your preferred specifications (such as size, color, or model) and click \"Add to Cart\". When you are ready to complete your purchase, navigate to your Shopping Cart, review your items, and click \"Proceed to Checkout\". Enter or confirm your shipping address, choose your delivery speed, apply any promotional voucher codes, and select your preferred payment method. Click \"Place Order\" to finalize. You will receive an instant order confirmation email containing your 9-digit order number (e.g., #SE-9843210).",
+    "metadata": {
+      "source": "FAQ.md",
+      "page": 1,
+      "chunk_id": "FAQ.md::p1::c2",
+      "chunk_index": 2,
+      "char_length": 863
+    }
+  },
+  {
+    "text": "Click \"Place Order\" to finalize. You will receive an instant order confirmation email containing your 9-digit order number (e.g., #SE-9843210).\n\n#### Q2: Can I modify or cancel my order after placing it?\nOrders can be modified or cancelled within a strict 30-minute window after placement. During this window, go to \"My Orders\" in your account dashboard and select \"Cancel Order\" or \"Edit Shipping Address\". Once an order passes the 30-minute mark, it is automatically routed to our automated fulfillment centers for picking and packing, and modifications are no longer permitted. If you cannot cancel in time, you may refuse delivery or initiate a return within 30 days of receipt.",
+    "metadata": {
+      "source": "FAQ.md",
+      "page": 1,
+      "chunk_id": "FAQ.md::p1::c3",
+      "chunk_index": 3,
+      "char_length": 682
+    }
+  },
+  {
+    "text": "and modifications are no longer permitted. If you cannot cancel in time, you may refuse delivery or initiate a return within 30 days of receipt.\n\n#### Q3: What happens if an item in my order goes out of stock after payment?\nIn rare instances of simultaneous inventory deduction, an item may become backordered or out of stock. If this occurs, ShopEase will notify you via email and SMS within 4 hours. You will be given two choices: wait for inventory replenishment (typically 5 to 7 business days) or receive an immediate automatic refund to your original payment method. If you select a refund, store credits will also include an additional $5 courtesy voucher towards your next purchase.",
+    "metadata": {
+      "source": "FAQ.md",
+      "page": 1,
+      "chunk_id": "FAQ.md::p1::c4",
+      "chunk_index": 4,
+      "char_length": 690
+    }
+  },
+  {
+    "text": "your original payment method. If you select a refund, store credits will also include an additional $5 courtesy voucher towards your next purchase.\n\n#### Q4: How do I apply a discount coupon or gift card?\nDuring Step 2 of the checkout flow, look for the field labeled \"Have a promo code or gift card?\". Enter your code and click \"Apply\". Valid discount codes will immediately reflect in the Order Summary breakdown before payment. Please note that only one promotional coupon can be applied per order; however, ShopEase digital gift cards can be stacked with one promotional coupon and store credits.\n\n---\n\n### Category 2: Payments and Invoicing",
+    "metadata": {
+      "source": "FAQ.md",
+      "page": 1,
+      "chunk_id": "FAQ.md::p1::c5",
+      "chunk_index": 5,
+      "char_length": 645
+    }
+  },
+  {
+    "text": "however, ShopEase digital gift cards can be stacked with one promotional coupon and store credits.\n\n---\n\n### Category 2: Payments and Invoicing\n\n#### Q5: What payment methods does ShopEase accept?\nShopEase accepts all major credit and debit cards, including Visa, MasterCard, American Express, and Discover. We also support digital wallets including Apple Pay, Google Pay, and PayPal. For eligible orders between $50 and $1,500, customers in supported regions may choose Buy-Now-Pay-Later (BNPL) through Klarna or Afterpay, splitting purchases into 4 interest-free installments paid every two weeks. We do not accept cash-on-delivery (COD) or paper checks.",
+    "metadata": {
+      "source": "FAQ.md",
+      "page": 1,
+      "chunk_id": "FAQ.md::p1::c6",
+      "chunk_index": 6,
+      "char_length": 656
+    }
+  },
+  {
+    "text": "or Afterpay, splitting purchases into 4 interest-free installments paid every two weeks. We do not accept cash-on-delivery (COD) or paper checks.\n\n#### Q6: Why was my payment declined, and what should I do?\nPayment declines typically occur due to one of the following reasons:\n1. Incorrect billing address: Ensure the billing ZIP/postal code entered matches the address registered with your issuing card bank.\n2. 3D Secure verification timeout (`ERR_PAY_402`): Your bank failed to complete SMS OTP verification within 180 seconds.\n3. Insufficient funds or daily fraud detection triggers: Contact your issuing bank to authorize transactions from ShopEase E-Commerce Inc.\n4. Expired card details or incorrect CVV code (3 digits on Visa/MasterCard back, 4 digits on Amex front).",
+    "metadata": {
+      "source": "FAQ.md",
+      "page": 1,
+      "chunk_id": "FAQ.md::p1::c7",
+      "chunk_index": 7,
+      "char_length": 775
+    }
+  },
+  {
+    "text": "transactions from ShopEase E-Commerce Inc.\n4. Expired card details or incorrect CVV code (3 digits on Visa/MasterCard back, 4 digits on Amex front).\n\n#### Q7: When will my credit card be charged?\nAn authorization hold for the total order amount is placed on your card at the moment you click \"Place Order\". Your card is only formally charged when the order packages are scanned and dispatched from our fulfillment warehouse. If an order is cancelled prior to shipment, the authorization hold typically drops off within 2 to 5 business days, depending on your bank.",
+    "metadata": {
+      "source": "FAQ.md",
+      "page": 1,
+      "chunk_id": "FAQ.md::p1::c8",
+      "chunk_index": 8,
+      "char_length": 564
+    }
+  },
+  {
+    "text": "If an order is cancelled prior to shipment, the authorization hold typically drops off within 2 to 5 business days, depending on your bank.\n\n#### Q8: How can I download a tax invoice for my purchase?\nCommercial tax invoices with full VAT/GST breakdowns are automatically generated upon dispatch. To download an invoice, log in to your account, visit \"My Orders\", find the relevant order, and click \"Download Tax Invoice (PDF)\". Invoices can also be requested by emailing billing@shopease.com with your 9-digit order ID.\n\n---\n\n### Category 3: Account Security and Profile Management",
+    "metadata": {
+      "source": "FAQ.md",
+      "page": 1,
+      "chunk_id": "FAQ.md::p1::c9",
+      "chunk_index": 9,
+      "char_length": 581
+    }
+  },
+  {
+    "text": "can also be requested by emailing billing@shopease.com with your 9-digit order ID.\n\n---\n\n### Category 3: Account Security and Profile Management\n\n#### Q9: How do I reset my account password?\nIf you have forgotten your password, navigate to the Sign In screen and click \"Forgot Password?\". Enter your registered email address or verified mobile number. We will send a secure 6-digit one-time passcode (OTP) valid for 10 minutes. Enter the OTP on the verification screen and choose a strong new password containing at least 8 characters, including one uppercase letter, one number, and one special symbol.",
+    "metadata": {
+      "source": "FAQ.md",
+      "page": 1,
+      "chunk_id": "FAQ.md::p1::c10",
+      "chunk_index": 10,
+      "char_length": 603
+    }
+  },
+  {
+    "text": "screen and choose a strong new password containing at least 8 characters, including one uppercase letter, one number, and one special symbol.\n\n#### Q10: What should I do if my account is locked?\nAccounts are locked automatically for 60 minutes after 5 consecutive failed login attempts, showing error code `ERR_LOGIN_105`. You can wait 60 minutes for automatic unlocking, or instantly unlock your account by verifying your identity via SMS OTP sent to your registered phone number. If you suspect unauthorized access, contact security@shopease.com immediately.",
+    "metadata": {
+      "source": "FAQ.md",
+      "page": 1,
+      "chunk_id": "FAQ.md::p1::c11",
+      "chunk_index": 11,
+      "char_length": 560
+    }
+  },
+  {
+    "text": "your identity via SMS OTP sent to your registered phone number. If you suspect unauthorized access, contact security@shopease.com immediately.\n\n#### Q11: How do I enable Two-Factor Authentication (2FA)?\nFor enhanced security, we strongly recommend enabling 2FA. Go to Account Settings > Security > Two-Factor Authentication. You may choose between SMS-based authentication or Authenticator App (Google Authenticator, Microsoft Authenticator, or Authy). Scan the QR code displayed on the screen and enter the 6-digit confirmation code generated by your app.",
+    "metadata": {
+      "source": "FAQ.md",
+      "page": 1,
+      "chunk_id": "FAQ.md::p1::c12",
+      "chunk_index": 12,
+      "char_length": 556
+    }
+  },
+  {
+    "text": "Microsoft Authenticator, or Authy). Scan the QR code displayed on the screen and enter the 6-digit confirmation code generated by your app.\n\n#### Q12: Can I delete my ShopEase account and associated data?\nYes, in compliance with GDPR and CCPA regulations, you can request account deletion. Navigate to Account Settings > Privacy & Data > Delete Account. Once submitted, your account enters a 7-day grace period during which you can cancel the request by logging in. After 7 days, your account profile, saved addresses, and payment tokens will be permanently anonymized. Past order invoices will be retained for 7 years to comply with statutory legal accounting requirements.\n\n---\n\n### Category 4: Shipping and Tracking",
+    "metadata": {
+      "source": "FAQ.md",
+      "page": 1,
+      "chunk_id": "FAQ.md::p1::c13",
+      "chunk_index": 13,
+      "char_length": 718
+    }
+  },
+  {
+    "text": "Past order invoices will be retained for 7 years to comply with statutory legal accounting requirements.\n\n---\n\n### Category 4: Shipping and Tracking\n\n#### Q13: What shipping options are available and what are the delivery timeframes?\nShopEase provides three shipping tiers within the continental United States:\n- Standard Shipping: 3 to 5 business days ($4.99 flat rate, or FREE on orders of $50 or more).\n- Express Delivery: 1 to 2 business days ($12.99 flat rate).\n- Overnight Priority: Next business day delivery if ordered before 2:00 PM EST ($24.99 flat rate).\nDelivery timeframes to Alaska, Hawaii, and Puerto Rico typically require an additional 2 to 4 business days.",
+    "metadata": {
+      "source": "FAQ.md",
+      "page": 1,
+      "chunk_id": "FAQ.md::p1::c14",
+      "chunk_index": 14,
+      "char_length": 674
+    }
+  },
+  {
+    "text": "before 2:00 PM EST ($24.99 flat rate).\nDelivery timeframes to Alaska, Hawaii, and Puerto Rico typically require an additional 2 to 4 business days.\n\n#### Q14: How do I track my package?\nOnce your order ships, an automated tracking email is dispatched containing your carrier tracking number (FedEx, UPS, or USPS) and a direct tracking link. You can also track your shipment in real time under \"My Orders\" > \"Track Shipment\". Tracking information usually updates within 12 hours of courier pickup.",
+    "metadata": {
+      "source": "FAQ.md",
+      "page": 1,
+      "chunk_id": "FAQ.md::p1::c15",
+      "chunk_index": 15,
+      "char_length": 496
+    }
+  },
+  {
+    "text": "also track your shipment in real time under \"My Orders\" > \"Track Shipment\". Tracking information usually updates within 12 hours of courier pickup.\n\n#### Q15: What should I do if tracking says \"Delivered\" but I haven't received my package?\nIf your tracking status shows delivered but you cannot locate the package:\n1. Verify the delivery address listed in your order confirmation.\n2. Check around potential drop-off spots, including porches, back gates, side doors, and building mailrooms.\n3. Check with household members and immediate neighbors.\n4. Allow 24 hours from delivery confirmation, as couriers occasionally scan parcels prematurely.\nIf the package has not arrived after 24 hours, contact customer support within 7 days to initiate a formal lost-transit carrier claim.",
+    "metadata": {
+      "source": "FAQ.md",
+      "page": 1,
+      "chunk_id": "FAQ.md::p1::c16",
+      "chunk_index": 16,
+      "char_length": 778
+    }
+  },
+  {
+    "text": "prematurely.\nIf the package has not arrived after 24 hours, contact customer support within 7 days to initiate a formal lost-transit carrier claim.\n\n#### Q16: Do you ship internationally?\nYes, ShopEase ships to over 45 international destinations including Canada, the UK, the European Union, Australia, and Japan. International shipments take 7 to 14 business days via DHL Express. All international orders are shipped DDP (Delivered Duty Paid), meaning customs duties and import taxes are calculated and collected during checkout with zero surprise fees on delivery.\n\n---\n\n### Category 5: Returns, Exchanges, and Damaged Items",
+    "metadata": {
+      "source": "FAQ.md",
+      "page": 1,
+      "chunk_id": "FAQ.md::p1::c17",
+      "chunk_index": 17,
+      "char_length": 627
+    }
+  },
+  {
+    "text": "taxes are calculated and collected during checkout with zero surprise fees on delivery.\n\n---\n\n### Category 5: Returns, Exchanges, and Damaged Items\n\n#### Q17: What is the ShopEase return policy window?\nShopEase offers a 30-day standard return window for most brand-new, unopened, or gently inspected items from the date of confirmed delivery. Items must be in their original packaging with all included accessories, documentation, and tags intact.",
+    "metadata": {
+      "source": "FAQ.md",
+      "page": 1,
+      "chunk_id": "FAQ.md::p1::c18",
+      "chunk_index": 18,
+      "char_length": 447
+    }
+  },
+  {
+    "text": "items from the date of confirmed delivery. Items must be in their original packaging with all included accessories, documentation, and tags intact.\n\n#### Q18: Are there non-returnable items?\nYes. The following categories cannot be returned due to hygiene, copyright, and safety regulations:\n- Opened personal care and intimate hygiene products.\n- Perishable goods, edible grocery items, and flowers.\n- Downloadable digital software keys and digital gift cards.\n- Custom engraved or personalized merchandise.\n- Hazardous materials or items containing flammable liquids/gases.",
+    "metadata": {
+      "source": "FAQ.md",
+      "page": 1,
+      "chunk_id": "FAQ.md::p1::c19",
+      "chunk_index": 19,
+      "char_length": 574
+    }
+  },
+  {
+    "text": "keys and digital gift cards.\n- Custom engraved or personalized merchandise.\n- Hazardous materials or items containing flammable liquids/gases.\n\n#### Q19: What should I do if I receive a broken or defective item?\nIf an item arrives damaged, defective, or incorrect, you must report it within 48 hours of delivery. Navigate to \"My Orders\", click \"Report Issue / Return\", select \"Item arrived damaged\", and upload at least two clear photographs showing:\n1. The physical damage or flaw on the product.\n2. The outer shipping carton and shipping label barcode.\nOur automated claims system will review the submission within 4 business hours. In most cases, a free replacement is dispatched immediately with a prepaid return shipping label for the damaged unit.",
+    "metadata": {
+      "source": "FAQ.md",
+      "page": 1,
+      "chunk_id": "FAQ.md::p1::c20",
+      "chunk_index": 20,
+      "char_length": 753
+    }
+  },
+  {
+    "text": "within 4 business hours. In most cases, a free replacement is dispatched immediately with a prepaid return shipping label for the damaged unit.\n\n#### Q20: How long does a refund take to process?\nOnce our return fulfillment center receives your returned parcel, the quality control inspection takes 1 to 2 business days. Following approval, refunds are issued immediately. The funds will reflect in your account within:\n- Credit/Debit Cards: 3 to 5 business days.\n- PayPal / Digital Wallets: 24 to 48 hours.\n- ShopEase Store Credit / Gift Balance: Instant.",
+    "metadata": {
+      "source": "FAQ.md",
+      "page": 1,
+      "chunk_id": "FAQ.md::p1::c21",
+      "chunk_index": 21,
+      "char_length": 555
+    }
+  },
+  {
+    "text": "ShopEase SmartBand X1 - User Manual &\nOperating Guide\nModel: SBX1-2026-BLK | High-Precision Fitness & Health Tracker\n1. Box Contents & Hardware Overview\nCongratulations on purchasing the ShopEase SmartBand X1. Your package includes the SmartBand X1 main\ntracking module, one hypoallergenic medical-grade silicone strap, a proprietary magnetic 2-pin USB charging cable\n(Length: 1.0m), and this quickstart user guide.\nHardware Specifications:\nDisplay: 1.47-inch AMOLED color touchscreen, 194x368 resolution, 282 PPI with anti-fingerprint coating.\nBiometric Sensors: 6-axis accelerometer, optical PPG heart rate sensor, SpO2 blood oxygen sensor, and\ncapacitive skin contact sensor.\nConnectivity: Bluetooth Low Energy (BLE 5.2) with 10-meter unobstructed operating range.",
+    "metadata": {
+      "source": "product_manual.pdf",
+      "page": 1,
+      "total_pages": 2,
+      "chunk_id": "product_manual.pdf::p1::c1",
+      "chunk_index": 1,
+      "char_length": 767
+    }
+  },
+  {
+    "text": "blood oxygen sensor, and\ncapacitive skin contact sensor.\nConnectivity: Bluetooth Low Energy (BLE 5.2) with 10-meter unobstructed operating range.\nWater Resistance: 5 ATM / IP68 certified up to 50 meters water depth (suitable for pool swimming and\nshowering; not for scuba diving or hot saunas).\n2. Charging & Battery Maintenance\nBefore first use, charge the SmartBand X1 continuously for at least 90 minutes. Connect the magnetic charging\ncradle to the metallic charging pins on the rear of the band module. Connect the standard USB-A plug to any certified\n5V/1A or 5V/2A wall power adapter or computer USB port.\nImportant Charging Precautions: Do not use fast-charging adapters exceeding 5V/2A (10W), as excessive voltage",
+    "metadata": {
+      "source": "product_manual.pdf",
+      "page": 1,
+      "total_pages": 2,
+      "chunk_id": "product_manual.pdf::p1::c2",
+      "chunk_index": 2,
+      "char_length": 722
+    }
+  },
+  {
+    "text": "power adapter or computer USB port.\nImportant Charging Precautions: Do not use fast-charging adapters exceeding 5V/2A (10W), as excessive voltage\nwill degrade the 180mAh lithium-polymer battery cells. Ensure charging pins are clean and dry before docking. A full\ncharge delivers up to 12 days of typical usage, or 6 days with Continuous 24/7 Heart Rate and Always-On Display\nenabled.\n3. Smartphone Pairing & App Setup\nThe SmartBand X1 requires a smartphone running iOS 13.0 or Android 8.0 and above. Follow these steps to pair:\n1. Download the official 'ShopEase Fitness' app from the Apple App Store or Google Play Store.\n2. Turn on Bluetooth on your smartphone and launch the app.\n3. Sign in with your ShopEase account credentials.",
+    "metadata": {
+      "source": "product_manual.pdf",
+      "page": 1,
+      "total_pages": 2,
+      "chunk_id": "product_manual.pdf::p1::c3",
+      "chunk_index": 3,
+      "char_length": 733
+    }
+  },
+  {
+    "text": "Apple App Store or Google Play Store.\n2. Turn on Bluetooth on your smartphone and launch the app.\n3. Sign in with your ShopEase account credentials.\n4. Wake the SmartBand X1 by tapping the display; a QR code will appear.\n5. In the app, tap 'Add New Device', select 'SmartBand X1', and scan the QR code displayed on the band screen.\n6. Confirm the Bluetooth pairing challenge on both your phone and band within 30 seconds.",
+    "metadata": {
+      "source": "product_manual.pdf",
+      "page": 1,
+      "total_pages": 2,
+      "chunk_id": "product_manual.pdf::p1::c4",
+      "chunk_index": 4,
+      "char_length": 421
+    }
+  },
+  {
+    "text": "ShopEase SmartBand X1 - Operating Guide\n(Continued)\nPage 2: Operations, Maintenance, Reset, and Warranty\n4. Daily Gestures and Navigation\nSwipe Up: Access notifications, unread messages, and incoming call alerts.\nSwipe Down: Open the Quick Settings control center (Do Not Disturb, Flashlight, Find My Phone, Screen\nBrightness).\nSwipe Left/Right: Cycle through biometric widgets (Daily Activity Rings, Real-time Heart Rate, SpO2 Tracker,\nWeather, Music Controls).\nPress & Hold Watchface (2 seconds): Enter the watchface gallery to swap visual themes.\n5. Troubleshooting and Factory Reset Procedures\nIf you encounter erratic behavior, inaccurate sensor metrics, or Bluetooth disconnection issues:",
+    "metadata": {
+      "source": "product_manual.pdf",
+      "page": 2,
+      "total_pages": 2,
+      "chunk_id": "product_manual.pdf::p2::c1",
+      "chunk_index": 1,
+      "char_length": 694
+    }
+  },
+  {
+    "text": "Troubleshooting and Factory Reset Procedures\nIf you encounter erratic behavior, inaccurate sensor metrics, or Bluetooth disconnection issues:\nSoft Reboot: Swipe Down to Quick Settings > tap the Gear icon (Settings) > tap 'Restart'. All user data and step\ncounts for the current day will be preserved.\nHard Factory Reset: To unpair and wipe all data: Settings > System > 'Factory Reset'. Confirm when prompted. The\ndevice will vibrate for 2 seconds, erase all onboard cache, and restart showing the original out-of-the-box QR pairing\nscreen.\nUnresponsive Screen Recovery: If the screen is black and does not respond to touch, connect the device to the\nmagnetic charger. While charging, press and hold the hidden recessed pinhole button located beside the charging",
+    "metadata": {
+      "source": "product_manual.pdf",
+      "page": 2,
+      "total_pages": 2,
+      "chunk_id": "product_manual.pdf::p2::c2",
+      "chunk_index": 2,
+      "char_length": 762
+    }
+  },
+  {
+    "text": "to touch, connect the device to the\nmagnetic charger. While charging, press and hold the hidden recessed pinhole button located beside the charging\nterminal using a paperclip for 8 seconds. The device will force reboot.\n6. Cleaning, Skin Health & Safe Care\nRinse the band regularly with clean water after swimming, intense sweating, or exposure to sunscreen and lotions.\nDo not use abrasive chemicals, dish soap, or solvent cleaners. Dry the band thoroughly with a lint-free cloth. To avoid\ncontact dermatitis, wear the band comfortably snug (not overly tight) allowing one finger of slack.\n7. 1-Year Limited Hardware Warranty\nThe ShopEase SmartBand X1 includes a One (1) Year Limited Warranty covering defects in materials and",
+    "metadata": {
+      "source": "product_manual.pdf",
+      "page": 2,
+      "total_pages": 2,
+      "chunk_id": "product_manual.pdf::p2::c3",
+      "chunk_index": 3,
+      "char_length": 727
+    }
+  },
+  {
+    "text": "of slack.\n7. 1-Year Limited Hardware Warranty\nThe ShopEase SmartBand X1 includes a One (1) Year Limited Warranty covering defects in materials and\nworkmanship under normal consumer use. The warranty covers sensor failure, display malfunction, and battery\ncapacity loss exceeding 30% within 12 months. The warranty strictly excludes accidental screen cracking, liquid\ndamage beyond 5 ATM ratings (such as hot showers/saunas), and unauthorized third-party disassembly. For\nwarranty service, email warranty@shopease.com with proof of purchase.",
+    "metadata": {
+      "source": "product_manual.pdf",
+      "page": 2,
+      "total_pages": 2,
+      "chunk_id": "product_manual.pdf::p2::c4",
+      "chunk_index": 4,
+      "char_length": 540
+    }
+  },
+  {
+    "text": "ShopEase Returns & Refund Policy\nDocument Version: 4.2 | Official E-Commerce Compliance Policy\n1. Purpose and Return Window Overview\nAt ShopEase, we take pride in delivering superior customer satisfaction. If you are not entirely satisfied with\nyour purchase, our returns framework is designed to be frictionless, transparent, and prompt. Customers are\ngranted a standard 30-day return window commencing from the confirmed date of carrier delivery. To qualify\nfor a standard refund, return authorization requests must be submitted through our customer portal before\nmidnight on the 30th calendar day post-delivery.\nEligible returns must satisfy the following condition prerequisites:\nItems must be in brand-new, unused, and resaleable condition.",
+    "metadata": {
+      "source": "return_policy.pdf",
+      "page": 1,
+      "total_pages": 3,
+      "chunk_id": "return_policy.pdf::p1::c1",
+      "chunk_index": 1,
+      "char_length": 745
+    }
+  },
+  {
+    "text": "day post-delivery.\nEligible returns must satisfy the following condition prerequisites:\nItems must be in brand-new, unused, and resaleable condition.\nAll original manufacturer packaging, barcodes, warranty cards, manuals, and bundled accessories must be\npresent.\nClothing and wearable apparel must retain all original tags attached, with zero evidence of washing,\nperfume scents, or alteration.\nElectronic devices must have all personal user accounts unlinked, factory reset performed, and lock\npasswords removed.\n2. Non-Returnable and Restricted Merchandise\nFor legal safety, public health guidelines, and copyright protection standards, certain categories are classified\nas strictly non-returnable and non-refundable once opened or delivered:",
+    "metadata": {
+      "source": "return_policy.pdf",
+      "page": 1,
+      "total_pages": 3,
+      "chunk_id": "return_policy.pdf::p1::c2",
+      "chunk_index": 2,
+      "char_length": 744
+    }
+  },
+  {
+    "text": "and copyright protection standards, certain categories are classified\nas strictly non-returnable and non-refundable once opened or delivered:\nHygiene & Personal Wellness: In-ear headphones, electric toothbrushes, razors, personal wellness\nproducts, and intimate apparel once the tamper-evident seal is broken.\nConsumables & Perishables: Nutritional supplements, food items, beverage pods, and fresh botanicals.\nDigital Products & Subscriptions: Downloadable software licenses, gaming activation codes, and\nprepaid digital gift cards.\nPersonalized Goods: Custom-printed apparel, custom-engraved jewelry, or bespoke assembled\nhardware.\n3. Damaged, Defective, or Incorrect Deliveries (48-Hour Protocol)",
+    "metadata": {
+      "source": "return_policy.pdf",
+      "page": 1,
+      "total_pages": 3,
+      "chunk_id": "return_policy.pdf::p1::c3",
+      "chunk_index": 3,
+      "char_length": 699
+    }
+  },
+  {
+    "text": "Custom-printed apparel, custom-engraved jewelry, or bespoke assembled\nhardware.\n3. Damaged, Defective, or Incorrect Deliveries (48-Hour Protocol)\nIn the unfortunate event that an item arrives damaged in transit, defective out of the box, or incorrect due to a\npicking error, ShopEase provides expedited resolution with zero return shipping costs for the customer.\nAction Required within 48 Hours: Customers must notify ShopEase Support within forty-eight (48) hours of\nconfirmed carrier delivery. Failure to report physical transit damage within 48 hours limits the claim to standard\nmanufacturer warranty channels.",
+    "metadata": {
+      "source": "return_policy.pdf",
+      "page": 1,
+      "total_pages": 3,
+      "chunk_id": "return_policy.pdf::p1::c4",
+      "chunk_index": 4,
+      "char_length": 615
+    }
+  },
+  {
+    "text": "ShopEase Returns & Refund Policy\n(Continued)\nPage 2: Resolution Procedures, Refund Timelines, and Fees\n4. Step-by-Step Return Authorization Process\nTo initiate an authorized return, adhere strictly to the following procedure:\n1. Log in to your ShopEase Account and navigate to 'My Orders'.\n2. Locate the specific order and select 'Initiate Return / Exchange'.\n3. Choose the reason code from the dropdown menu (e.g., 'Incorrect Size', 'Changed Mind', 'Defective Item',\n'Damaged Packaging').\n4. If reporting damage or defect, upload at least two (2) high-resolution photographs illustrating the flaw and\nthe courier shipping label.\n5. Print the prepaid Return Merchandise Authorization (RMA) shipping label and the RMA packing slip.",
+    "metadata": {
+      "source": "return_policy.pdf",
+      "page": 2,
+      "total_pages": 3,
+      "chunk_id": "return_policy.pdf::p2::c1",
+      "chunk_index": 1,
+      "char_length": 730
+    }
+  },
+  {
+    "text": "the flaw and\nthe courier shipping label.\n5. Print the prepaid Return Merchandise Authorization (RMA) shipping label and the RMA packing slip.\n6. Securely package the merchandise into a sturdy shipping box, insert the RMA packing slip inside, affix\nthe prepaid label outside, and drop the package at any authorized UPS or FedEx drop-off location.\n5. Restocking and Shipping Fee Schedule\nReturn shipping costs and applicable processing fees are governed by the classification of the return:\nReturn Reason\nReturn Shipping Cost\nRestocking Fee\nRefund Type\nDefective or Damaged\nFREE (Prepaid by ShopEase)\n$0.00 (No fee)\n100% Full Refund or Replacement\nIncorrect Item Shipped\nFREE (Prepaid by ShopEase)\n$0.00 (No fee)\n100% Full Refund or Reshipment\nCustomer Remorse / Fit\n$5.99 (Deducted from refund)",
+    "metadata": {
+      "source": "return_policy.pdf",
+      "page": 2,
+      "total_pages": 3,
+      "chunk_id": "return_policy.pdf::p2::c2",
+      "chunk_index": 2,
+      "char_length": 793
+    }
+  },
+  {
+    "text": "Item Shipped\nFREE (Prepaid by ShopEase)\n$0.00 (No fee)\n100% Full Refund or Reshipment\nCustomer Remorse / Fit\n$5.99 (Deducted from refund)\n$0.00 (No fee)\nRefund minus shipping cost\nLate Return (Day 31-45)*\n$5.99 (Deducted)\n15% Restocking Fee\nStore Credit Balance Only\n6. Warehouse Inspection and Refund Disbursements\nUpon physical receipt at our central returns fulfillment facility in Columbus, Ohio, our Quality Assurance team\nconducts a physical scan and grading within 48 business hours. Once certified as compliant with return\nstandards, the financial refund is triggered automatically to the original payment instrument:\nCredit and Debit Cards: Financial posting within 3 to 5 business days, depending on bank settlement\npolicies.\nPayPal / Digital Wallets: Posted within 24 business hours.",
+    "metadata": {
+      "source": "return_policy.pdf",
+      "page": 2,
+      "total_pages": 3,
+      "chunk_id": "return_policy.pdf::p2::c3",
+      "chunk_index": 3,
+      "char_length": 794
+    }
+  },
+  {
+    "text": "Financial posting within 3 to 5 business days, depending on bank settlement\npolicies.\nPayPal / Digital Wallets: Posted within 24 business hours.\nShopEase Store Credits & Gift Vouchers: Available instantly upon inspection sign-off.\nKlarna / Afterpay: Future scheduled installments are cancelled; paid installments are refunded by the\nBNPL provider within 5-7 business days.",
+    "metadata": {
+      "source": "return_policy.pdf",
+      "page": 2,
+      "total_pages": 3,
+      "chunk_id": "return_policy.pdf::p2::c4",
+      "chunk_index": 4,
+      "char_length": 372
+    }
+  },
+  {
+    "text": "7. Support Contact for Complex Claims\nFor special escalation inquiries or orders exceeding $1,000 in return value, contact\nreturns-escalations@shopease.com or call our toll-free support line at 1-800-555-EASE (Option 3 for Returns).",
+    "metadata": {
+      "source": "return_policy.pdf",
+      "page": 3,
+      "total_pages": 3,
+      "chunk_id": "return_policy.pdf::p3::c1",
+      "chunk_index": 1,
+      "char_length": 232
+    }
+  },
+  {
+    "text": "SHOPEASE E-COMMERCE INC. - OFFICIAL SHIPPING & FULFILLMENT POLICY\nDocument Code: POL-SHP-2026-V3\nEffective Date: January 1, 2026\nLast Revised: October 1, 2026\n\n1. GENERAL DISPATCH & PROCESSING OVERVIEW\nAt ShopEase, our commitment is to provide fast, reliable, and transparent shipping across all consumer orders. Every order placed on the ShopEase platform undergoes automated fraud verification, inventory allocation, and fulfillment dispatch.\n\nStandard fulfillment operational hours are Monday through Friday, 7:00 AM to 6:00 PM EST, and Saturday, 8:00 AM to 2:00 PM EST. Orders placed on Sundays or official federal public holidays will begin processing on the following business day.",
+    "metadata": {
+      "source": "shipping_policy.txt",
+      "page": 1,
+      "chunk_id": "shipping_policy.txt::p1::c1",
+      "chunk_index": 1,
+      "char_length": 687
+    }
+  },
+  {
+    "text": "Saturday, 8:00 AM to 2:00 PM EST. Orders placed on Sundays or official federal public holidays will begin processing on the following business day.\n\nOrders containing in-stock items are processed and handed over to courier carriers within 12 to 24 hours of successful payment authorization. During peak seasonal promotional campaigns (such as Black Friday, Cyber Week, and Annual Prime Blowouts), warehouse processing times may extend up to 48 hours.\n\n2. DOMESTIC SHIPPING TIERS (CONTINENTAL UNITED STATES)\nShopEase partners with tier-1 national logistics providers, including FedEx Express, United Parcel Service (UPS), and the United States Postal Service (USPS), to offer three standardized domestic delivery speeds:",
+    "metadata": {
+      "source": "shipping_policy.txt",
+      "page": 1,
+      "chunk_id": "shipping_policy.txt::p1::c2",
+      "chunk_index": 2,
+      "char_length": 719
+    }
+  },
+  {
+    "text": "FedEx Express, United Parcel Service (UPS), and the United States Postal Service (USPS), to offer three standardized domestic delivery speeds:\n\nTier A: Standard Ground Shipping\n- Transit Window: 3 to 5 business days following dispatch.\n- Base Charge: Flat fee of $4.99 per order for cart sub-totals under $50.00.\n- Free Shipping Incentive: Orders with a merchandise sub-total of $50.00 or greater (calculated after coupons and before taxes) qualify automatically for FREE Standard Shipping.\n- Carrier Selection: Smart-routed between USPS Ground Advantage and UPS Ground based on destination logistics density.",
+    "metadata": {
+      "source": "shipping_policy.txt",
+      "page": 1,
+      "chunk_id": "shipping_policy.txt::p1::c3",
+      "chunk_index": 3,
+      "char_length": 609
+    }
+  },
+  {
+    "text": "for FREE Standard Shipping.\n- Carrier Selection: Smart-routed between USPS Ground Advantage and UPS Ground based on destination logistics density.\n\nTier B: Express 2-Day Air Delivery\n- Transit Window: 1 to 2 business days following dispatch.\n- Base Charge: Flat fee of $12.99 per order.\n- Guarantee: Delivery attempted by end of the second business day. Guaranteed Saturday delivery is included for metropolitan ZIP codes.",
+    "metadata": {
+      "source": "shipping_policy.txt",
+      "page": 1,
+      "chunk_id": "shipping_policy.txt::p1::c4",
+      "chunk_index": 4,
+      "char_length": 422
+    }
+  },
+  {
+    "text": "per order.\n- Guarantee: Delivery attempted by end of the second business day. Guaranteed Saturday delivery is included for metropolitan ZIP codes.\n\nTier C: Overnight Priority Delivery\n- Transit Window: Guaranteed next business day delivery.\n- Order Cut-Off Time: Orders must be finalized and authorized by 2:00 PM Eastern Standard Time (EST) Monday through Thursday. Orders placed after 2:00 PM on Thursday will arrive on Monday. Orders placed on Friday before 2:00 PM will arrive on Monday unless Saturday Priority ($10 surcharge) is selected.\n- Base Charge: Flat fee of $24.99 per order.",
+    "metadata": {
+      "source": "shipping_policy.txt",
+      "page": 1,
+      "chunk_id": "shipping_policy.txt::p1::c5",
+      "chunk_index": 5,
+      "char_length": 589
+    }
+  },
+  {
+    "text": "on Friday before 2:00 PM will arrive on Monday unless Saturday Priority ($10 surcharge) is selected.\n- Base Charge: Flat fee of $24.99 per order.\n\n3. NON-CONTINENTAL DOMESTIC REGIONS\nShipments destined for Alaska, Hawaii, Puerto Rico, Guam, and US Military APO/FPO addresses:\n- Applicable Tiers: Standard Ground and Priority Mail only.\n- Transit Window: 5 to 9 business days for AK, HI, and PR; up to 14 business days for APO/FPO destinations.\n- Surcharge: A flat $8.50 remote logistics handling surcharge applies to all non-continental orders regardless of cart value.\n\n4. INTERNATIONAL SHIPPING & CUSTOMS CLEARANCE (DDP)\nShopEase currently ships directly to 48 countries across North America, Europe, Asia-Pacific, and Latin America via DHL Express Worldwide and FedEx International Priority.",
+    "metadata": {
+      "source": "shipping_policy.txt",
+      "page": 1,
+      "chunk_id": "shipping_policy.txt::p1::c6",
+      "chunk_index": 6,
+      "char_length": 794
+    }
+  },
+  {
+    "text": "directly to 48 countries across North America, Europe, Asia-Pacific, and Latin America via DHL Express Worldwide and FedEx International Priority.\n\nDelivered Duty Paid (DDP) Standards:\nAll international transactions are processed under Incoterms DDP rules. When completing checkout on ShopEase:\n- Local import duties, Value Added Tax (VAT), Goods and Services Tax (GST), and standard customs clearance brokerage fees are calculated dynamically in real-time and added to the final checkout total.\n- The recipient will NEVER be contacted by the courier or local customs agency demanding additional customs fees upon parcel delivery.\n- Estimated International Transit: 6 to 10 business days for standard international; 3 to 5 business days for DHL Express Priority.\n- International shipping charges vary based on volumetric weight and destination country, starting at $19.99 for Canada and $24.99 for the United Kingdom and European Union.",
+    "metadata": {
+      "source": "shipping_policy.txt",
+      "page": 1,
+      "chunk_id": "shipping_policy.txt::p1::c7",
+      "chunk_index": 7,
+      "char_length": 936
+    }
+  },
+  {
+    "text": "charges vary based on volumetric weight and destination country, starting at $19.99 for Canada and $24.99 for the United Kingdom and European Union.\n\n5. PACKAGE TRACKING & NOTIFICATIONS\nUpon parcel handover to the carrier, a unique 12-to-22-character tracking identifier is generated and registered in the ShopEase tracking portal. Customers receive:\n1. Automated Dispatch Email: Contains courier identity, package weight, tracking number, and live tracking hyperlink.\n2. Real-time SMS Updates: Available for opt-in customers upon checkout, providing milestone alerts for \"Out for Delivery\", \"Delayed by Weather\", and \"Delivered\".\n3. Customer Dashboard: Under the \"My Orders\" tab, customers can view live GPS coordinates and estimated delivery time windows provided by carrier APIs.",
+    "metadata": {
+      "source": "shipping_policy.txt",
+      "page": 1,
+      "chunk_id": "shipping_policy.txt::p1::c8",
+      "chunk_index": 8,
+      "char_length": 782
+    }
+  },
+  {
+    "text": "Customer Dashboard: Under the \"My Orders\" tab, customers can view live GPS coordinates and estimated delivery time windows provided by carrier APIs.\n\n6. INCLEMENT WEATHER, DELAYS, AND FORCE MAJEURE\nWhile ShopEase and our carrier partners maintain an on-time dispatch rate exceeding 98.4%, occasional unavoidable delays occur due to severe winter storms, hurricanes, national transit disruptions, or customs clearance bottlenecks. In the event of a recognized carrier delay exceeding 48 hours beyond the scheduled delivery window, customers are entitled to a full refund of any paid expedited shipping fees ($12.99 or $24.99) upon request to support@shopease.com.",
+    "metadata": {
+      "source": "shipping_policy.txt",
+      "page": 1,
+      "chunk_id": "shipping_policy.txt::p1::c9",
+      "chunk_index": 9,
+      "char_length": 662
+    }
+  },
+  {
+    "text": "delivery window, customers are entitled to a full refund of any paid expedited shipping fees ($12.99 or $24.99) upon request to support@shopease.com.\n\n7. FULFILLMENT RESTRICTIONS\n- P.O. Box Addresses: Standard Shipping via USPS is required for all P.O. Box addresses. Express and Overnight air couriers (FedEx/UPS) cannot deliver to P.O. Boxes.\n- Hazardous Items: Items containing lithium-ion batteries exceeding 100Wh, aerosol sprays, and chemical solvents cannot be shipped via air express or international carriers; these must ship via Ground Transport only.",
+    "metadata": {
+      "source": "shipping_policy.txt",
+      "page": 1,
+      "chunk_id": "shipping_policy.txt::p1::c10",
+      "chunk_index": 10,
+      "char_length": 561
+    }
+  },
+  {
+    "text": "ShopEase Platform Technical Troubleshooting & Error Code Guide\n\nThis official reference guide provides step-by-step resolution procedures for common mobile application, web platform, payment processing, and account access issues encountered by ShopEase customers and support agents.\n\n1. Payment Processing Errors and Gateway Failures\n\nError Code: ERR_PAY_402 (3D Secure Authentication Timeout)\n\nSymptom: The customer experiences a spinning loading spinner on checkout, followed by a red banner displaying: 'Transaction Failed: ERR_PAY_402 - 3D Secure verification could not be completed in the allotted time.'",
+    "metadata": {
+      "source": "troubleshooting_guide.docx",
+      "page": 1,
+      "chunk_id": "troubleshooting_guide.docx::p1::c1",
+      "chunk_index": 1,
+      "char_length": 609
+    }
+  },
+  {
+    "text": "followed by a red banner displaying: 'Transaction Failed: ERR_PAY_402 - 3D Secure verification could not be completed in the allotted time.'\n\nRoot Cause: The customer's banking institution issued an SMS One-Time Password (OTP) or mobile banking push challenge, but the customer failed to complete verification within the 180-second security window, or carrier SMS routing dropped the challenge.\n\nResolution Steps for Agent and Customer:\n\n1. Verify that the customer has active cellular reception and can receive bank SMS messages.\n\n2. Ensure pop-up blockers or aggressive browser ad-blockers are disabled, as they can prevent the bank's 3D Secure modal from rendering.\n\n3. Advise the customer to clear browser cache and cookies, or attempt the purchase in an Incognito / Private window.",
+    "metadata": {
+      "source": "troubleshooting_guide.docx",
+      "page": 1,
+      "chunk_id": "troubleshooting_guide.docx::p1::c2",
+      "chunk_index": 2,
+      "char_length": 786
+    }
+  },
+  {
+    "text": "3D Secure modal from rendering.\n\n3. Advise the customer to clear browser cache and cookies, or attempt the purchase in an Incognito / Private window.\n\n4. If the error repeats, recommend an alternative payment method such as PayPal, Apple Pay, or a different credit card.\n\nError Code: ERR_PAY_501 (Payment Gateway Authorization Declined)\n\nSymptom: The order fails immediately with 'ERR_PAY_501: Your payment was declined by the card processor.'\n\nRoot Cause: The issuing bank declined the charge due to incorrect billing zip code, CVV mismatch, or automated anti-fraud security triggers for unusual transaction sizes.\n\nResolution Steps:\n\n1. Re-enter card details, paying careful attention to the 3-digit CVV and the registered postal code.",
+    "metadata": {
+      "source": "troubleshooting_guide.docx",
+      "page": 1,
+      "chunk_id": "troubleshooting_guide.docx::p1::c3",
+      "chunk_index": 3,
+      "char_length": 737
+    }
+  },
+  {
+    "text": "unusual transaction sizes.\n\nResolution Steps:\n\n1. Re-enter card details, paying careful attention to the 3-digit CVV and the registered postal code.\n\n2. Contact card issuing bank to authorize transactions originating from merchant 'ShopEase E-Commerce LLC'.\n\n2. Account Access and Authentication Errors\n\nError Code: ERR_LOGIN_105 (Account Locked due to Rate Limiting)\n\nSymptom: Customer is unable to log in and sees error: 'Account Temporarily Locked: ERR_LOGIN_105. Please try again later or contact support.'\n\nRoot Cause: The ShopEase security firewall detected 5 consecutive incorrect password submissions within a 15-minute window, activating a safety lockout to prevent credential stuffing and brute-force attacks.\n\nResolution Steps:",
+    "metadata": {
+      "source": "troubleshooting_guide.docx",
+      "page": 1,
+      "chunk_id": "troubleshooting_guide.docx::p1::c4",
+      "chunk_index": 4,
+      "char_length": 738
+    }
+  },
+  {
+    "text": "submissions within a 15-minute window, activating a safety lockout to prevent credential stuffing and brute-force attacks.\n\nResolution Steps:\n\n1. Automatic Cooldown: The account will automatically unlock after exactly 60 minutes.\n\n2. Instant Self-Service Unlock: Click 'Forgot Password?' on the login screen. Completing the identity verification challenge via verified SMS or email OTP will instantly reset the lockout counter.\n\n3. Agent Unlock Protocol: Support agents can verify customer identity using three profile security questions and initiate a manual unlock token from the admin console.\n\nError Code: ERR_AUTH_204 (Session Token Expiration)\n\nSymptom: When clicking 'Place Order' or 'View Account', the app redirects to the sign-in screen without completing the action.",
+    "metadata": {
+      "source": "troubleshooting_guide.docx",
+      "page": 1,
+      "chunk_id": "troubleshooting_guide.docx::p1::c5",
+      "chunk_index": 5,
+      "char_length": 777
+    }
+  },
+  {
+    "text": "Token Expiration)\n\nSymptom: When clicking 'Place Order' or 'View Account', the app redirects to the sign-in screen without completing the action.\n\nFix: The JSON Web Token (JWT) session has expired (sessions expire after 14 days of inactivity, or immediately upon password changes on another device). Log out completely, force-close the mobile application, reopen, and log back in.\n\n3. Mobile Application Crashes and Cart Synchronization\n\nWhen customers report that cart items disappear, items will not add to cart, or the app crashes during navigation, follow this standard troubleshooting triage:\n\nStep 1: Check App Version. Verify the customer is running ShopEase App version 4.12.0 or higher. Older builds (prior to v4.10) have deprecated API endpoints.",
+    "metadata": {
+      "source": "troubleshooting_guide.docx",
+      "page": 1,
+      "chunk_id": "troubleshooting_guide.docx::p1::c6",
+      "chunk_index": 6,
+      "char_length": 756
+    }
+  },
+  {
+    "text": "Check App Version. Verify the customer is running ShopEase App version 4.12.0 or higher. Older builds (prior to v4.10) have deprecated API endpoints.\n\nStep 2: Clear Application Cache (Android). Go to Device Settings > Apps > ShopEase > Storage & Cache > Clear Cache.\n\nStep 3: Cart Resynchronization. If cart items are out of sync across devices, toggle 'Sync Cart Across Devices' under Account Settings > Preferences to ON.\n\nStep 4: Network Reconnection. Switch from weak Wi-Fi to cellular data (LTE/5G) or vice versa to rule out intermittent network socket drops.\n\n4. Contacting Technical Engineering Escalations\n\nIf a customer's issue cannot be resolved through the steps above, tier-1 agents must collect the following debugging details before opening an engineering Jira ticket:",
+    "metadata": {
+      "source": "troubleshooting_guide.docx",
+      "page": 1,
+      "chunk_id": "troubleshooting_guide.docx::p1::c7",
+      "chunk_index": 7,
+      "char_length": 782
+    }
+  },
+  {
+    "text": "cannot be resolved through the steps above, tier-1 agents must collect the following debugging details before opening an engineering Jira ticket:\n\n• Customer User ID and Registered Email Address\n\n• Exact Error Code and verbatim error message\n\n• Device model (e.g., iPhone 15 Pro, Samsung Galaxy S24) and Operating System Version\n\n• Network type (Wi-Fi, 5G, or VPN connection)\n\n• High-resolution screenshot or screen recording of the error state",
+    "metadata": {
+      "source": "troubleshooting_guide.docx",
+      "page": 1,
+      "chunk_id": "troubleshooting_guide.docx::p1::c8",
+      "chunk_index": 8,
+      "char_length": 444
+    }
+  },
+  {
+    "text": "# ShopEase Warranty Policies and Customer Support Escalations\nDocument Reference: DOC-WRNTY-2026-REV2\nEffective: January 2026\n\n## 1. ShopEase Standard Limited Warranty (1-Year)\n\nEvery electronic device, appliance, and private-label hardware product sold directly by ShopEase is backed by our comprehensive **One (1) Year Limited Consumer Warranty**. This coverage guarantees that your product will remain free from manufacturing defects in materials, components, and assembly for a duration of 365 calendar days from the verified date of delivery.",
+    "metadata": {
+      "source": "warranty_and_support.md",
+      "page": 1,
+      "chunk_id": "warranty_and_support.md::p1::c1",
+      "chunk_index": 1,
+      "char_length": 547
+    }
+  },
+  {
+    "text": "remain free from manufacturing defects in materials, components, and assembly for a duration of 365 calendar days from the verified date of delivery.\n\n### What is Covered:\n- **Internal Component Failure:** Motherboard malfunction, Bluetooth/Wi-Fi chip dropouts, motor burnouts, and internal wiring failures under normal household use.\n- **Sensor & Biometrics:** Optical sensors, touch digitizer non-responsiveness, and accelerometer inaccuracies.\n- **Battery Performance:** Lithium batteries exhibiting premature degradation (defined as holding less than 70% of factory rated capacity within 12 months).\n- **Firmware & Software Integrity:** Fatal firmware corruption resulting from official Over-The-Air (OTA) updates.",
+    "metadata": {
+      "source": "warranty_and_support.md",
+      "page": 1,
+      "chunk_id": "warranty_and_support.md::p1::c2",
+      "chunk_index": 2,
+      "char_length": 718
+    }
+  },
+  {
+    "text": "rated capacity within 12 months).\n- **Firmware & Software Integrity:** Fatal firmware corruption resulting from official Over-The-Air (OTA) updates.\n\n### What is Explicitly Excluded:\n- **Accidental Damage:** Screen cracks, dents, casing fractures resulting from drops, impacts, or crush force.\n- **Liquid Intrusion Beyond Rating:** Exposure to water pressures exceeding specified IP/ATM ratings, steam from saunas, immersion in saltwater, or exposure to corrosive liquids.\n- **Unauthorized Repair:** Modifications, repairs, or disassembly performed by unauthorized repair shops or non-OEM components.\n- **Normal Wear and Tear:** Cosmetic scratches, strap discoloration, cosmetic peeling of exterior coatings, and expected cable fraying over extended use.\n- **Acts of Nature:** Damage caused by lightning strikes, power surges, floods, or residential fires.",
+    "metadata": {
+      "source": "warranty_and_support.md",
+      "page": 1,
+      "chunk_id": "warranty_and_support.md::p1::c3",
+      "chunk_index": 3,
+      "char_length": 856
+    }
+  },
+  {
+    "text": "and expected cable fraying over extended use.\n- **Acts of Nature:** Damage caused by lightning strikes, power surges, floods, or residential fires.\n\n---\n\n## 2. ShopEase Care+ Extended Protection Plans",
+    "metadata": {
+      "source": "warranty_and_support.md",
+      "page": 1,
+      "chunk_id": "warranty_and_support.md::p1::c4",
+      "chunk_index": 4,
+      "char_length": 200
+    }
+  },
+  {
+    "text": "of Nature:** Damage caused by lightning strikes, power surges, floods, or residential fires.\n\n---\n\n## 2. ShopEase Care+ Extended Protection Plans\n\nFor customers seeking complete peace of mind, ShopEase offers optional **ShopEase Care+ Protection** available for purchase within 30 days of hardware delivery:\n- **Duration:** Extends total coverage to 2 years or 3 years.\n- **Accidental Damage Protection (ADH):** Includes up to two (2) accidental drop or spill claims per 12-month period subject to a nominal $29 deductible.\n- **Rapid Express Replacement:** In the event of a verified claim, ShopEase ships a replacement unit prior to receiving your defective device.\n- **Transferability:** ShopEase Care+ coverage is tied to the hardware serial number and automatically transfers if you gift or sell the product.",
+    "metadata": {
+      "source": "warranty_and_support.md",
+      "page": 1,
+      "chunk_id": "warranty_and_support.md::p1::c5",
+      "chunk_index": 5,
+      "char_length": 812
+    }
+  },
+  {
+    "text": "**Transferability:** ShopEase Care+ coverage is tied to the hardware serial number and automatically transfers if you gift or sell the product.\n\n---\n\n## 3. Customer Support Channels and Operating Hours\n\nShopEase provides multiple omnichannel support pathways designed to resolve inquiries rapidly:",
+    "metadata": {
+      "source": "warranty_and_support.md",
+      "page": 1,
+      "chunk_id": "warranty_and_support.md::p1::c6",
+      "chunk_index": 6,
+      "char_length": 297
+    }
+  },
+  {
+    "text": "3. Customer Support Channels and Operating Hours\n\nShopEase provides multiple omnichannel support pathways designed to resolve inquiries rapidly:\n\n| Support Channel | Availability / Hours | Target Response SLA | Best Suited For |\n| :--- | :--- | :--- | :--- |\n| **Live Chat (App & Web)** | 24 Hours / 7 Days a week | Under 60 seconds | Quick FAQs, order status, address adjustments |\n| **Voice Support (1-800-555-EASE)** | Mon–Sat: 8:00 AM – 9:00 PM EST<br>Sun: 10:00 AM – 6:00 PM EST | Under 3 minutes hold | Complex returns, urgent delivery issues, payment authorization |\n| **Email Support (support@shopease.com)** | 24 Hours / 7 Days a week | Within 4 hours | Detailed documentation, warranty claims, receipts |\n| **Escalations Desk (priority@shopease.com)** | Mon–Fri: 9:00 AM – 5:00 PM EST | Within 24 hours | Disputed refunds, legal notices, safety reports |",
+    "metadata": {
+      "source": "warranty_and_support.md",
+      "page": 1,
+      "chunk_id": "warranty_and_support.md::p1::c7",
+      "chunk_index": 7,
+      "char_length": 864
+    }
+  },
+  {
+    "text": "**Escalations Desk (priority@shopease.com)** | Mon–Fri: 9:00 AM – 5:00 PM EST | Within 24 hours | Disputed refunds, legal notices, safety reports |\n\n---\n\n## 4. Multi-Tier Support Escalation Framework\n\nShopEase utilizes a structured 3-tier escalation framework to ensure complex customer issues are diagnosed and resolved by specialized personnel:",
+    "metadata": {
+      "source": "warranty_and_support.md",
+      "page": 1,
+      "chunk_id": "warranty_and_support.md::p1::c8",
+      "chunk_index": 8,
+      "char_length": 346
+    }
+  },
+  {
+    "text": "```\n[Customer Query]\n│\n▼\n[Tier 1 Support: Automated Chatbot / Frontline Specialist]\n• Answers FAQ policies, order tracking, address verification.\n• Resolution Target: 80% first-contact resolution within 5 minutes.\n│ (Unresolved / Low Confidence / Complex Claim)\n▼\n[Tier 2 Support: Senior Support Specialist]\n• Authority to authorize exceptions: up to $150 courtesy refunds, RMA overrides.\n• Performs remote technical diagnostics and returns inspection review.\n• Resolution Target: Within 12 business hours.\n│ (Systemic Hardware Flaw / Disputed Chargeback / Legal Issue)\n▼\n[Tier 3 Support: Customer Advocacy & Technical Engineering]\n• Lead Hardware Engineers, Logistics Managers, and Legal Counsel.\n• Full financial authority for complete replacements and formal damage settlements.",
+    "metadata": {
+      "source": "warranty_and_support.md",
+      "page": 1,
+      "chunk_id": "warranty_and_support.md::p1::c9",
+      "chunk_index": 9,
+      "char_length": 781
+    }
+  },
+  {
+    "text": "Lead Hardware Engineers, Logistics Managers, and Legal Counsel.\n• Full financial authority for complete replacements and formal damage settlements.\n• Direct phone consultation with dedicated case manager.\n```",
+    "metadata": {
+      "source": "warranty_and_support.md",
+      "page": 1,
+      "chunk_id": "warranty_and_support.md::p1::c10",
+      "chunk_index": 10,
+      "char_length": 208
+    }
+  },
+  {
+    "text": "### Criteria for Escalating to a Human Agent / Tier 2:\n1. **Low Confidence Score:** When the customer service AI system detects an inquiry confidence score below 0.70.\n2. **Damaged Transit Claims:** Where customers provide photographic proof of physical courier crushing or broken items.\n3. **Repeated Payment Decline:** Where error codes like `ERR_PAY_402` or `ERR_PAY_501` persist across two or more payment attempts.\n4. **Safety & Hazard Warnings:** Any report involving battery swelling, smoke, electrical sparks, or skin irritation.\n5. **Customer Frustration Detection:** Sentiment analysis triggering persistent negative emotion or explicit requests to \"Speak with a human\".\n\n---\n\n## 5. Filing a Formal Warranty Claim",
+    "metadata": {
+      "source": "warranty_and_support.md",
+      "page": 1,
+      "chunk_id": "warranty_and_support.md::p1::c11",
+      "chunk_index": 11,
+      "char_length": 723
+    }
+  },
+  {
+    "text": "Sentiment analysis triggering persistent negative emotion or explicit requests to \"Speak with a human\".\n\n---\n\n## 5. Filing a Formal Warranty Claim\n\nTo initiate a warranty repair or replacement claim:\n1. Locate your 9-digit Order Number (e.g., #SE-8374921) and Product Serial Number (printed on box or device settings).\n2. Email **warranty@shopease.com** with the subject line: `Warranty Claim: [Order Number] - [Product Name]`.\n3. Provide a clear description of the defect and attach a short 10-second video demonstrating the malfunction.\n4. Within 4 business hours, an agent will provide a prepaid courier return shipping label and a Warranty Service Ticket Number (WST-XXXXX).\n5. Replacement units are dispatched within 2 business days of our service depot receiving the defective hardware.",
+    "metadata": {
+      "source": "warranty_and_support.md",
+      "page": 1,
+      "chunk_id": "warranty_and_support.md::p1::c12",
+      "chunk_index": 12,
+      "char_length": 792
+    }
+  }
+]
